@@ -1,1 +1,1 @@
-Contained here are projects done on Python data structures: Lists and Tuples specifically.
+Projects on data dtructures: lists and tupules specifically
