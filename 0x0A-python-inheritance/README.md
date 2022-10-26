@@ -1,0 +1,1 @@
+Project and modules that examplify OOP inheritance in Python.
