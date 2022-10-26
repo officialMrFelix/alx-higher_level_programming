@@ -1,0 +1,11 @@
+Projects and scripts done to review attainment of learning objectives in the following course areas:
+-Import
+-Exceptions
+-Class
+-Private attribute
+-Getter/Setter
+-Class method
+-Static method
+-Inheritance
+-Unittest
+-Read/Write file
